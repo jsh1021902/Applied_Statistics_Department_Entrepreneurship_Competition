@@ -1,0 +1,2 @@
+# Applied_Statistics_Department_Entrepreneurship_Competition
+Location information system that predicts departure time based on user schedule
